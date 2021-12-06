@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first project with odin. It is a website, that has a couple of spices adapted from "allrecipes.com". This simply demonstrates the skills I have acquire thus far, working with HTML.
