@@ -7,3 +7,15 @@ body {
     background-color: cadetblue;
     background-size: auto;
 }
+h1{
+ text-align:left;
+ font-weight: bold;
+ font-style: oblique;
+ color: darkgreen;
+ font-size: 40px;
+}
+.recipes{
+    font-size: 30px;
+    color: navy;
+    text-underline-position: unset;
+}
